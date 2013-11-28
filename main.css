@@ -1,0 +1,14 @@
+.animete{
+    transition: all;
+    animation-duration: 3s;
+}
+
+.with-banner #footer{
+    display: none;
+}
+
+
+.with-banner #slide-box{
+
+    right: 0px;
+}
